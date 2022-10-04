@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+			 <head>
+			 				<body>
+			 								<h1><center>Student List</center></h1>
+			 								<table bgcolor="black" width="400">
+			 												<tr bgcolor="grey">
+			 																<th>Roll No</th> 
+			 																<th>Name</th>
+			 																<th>Department</th>
+			 																<th>Semester</th>
+			 												</tr>
+			 											<tr bgcolor="lightgray" align=center>
+			 															<td>1</td>
+			 															<td>Rafi</td>
+			 															<td>CT</td>
+			 															<td>5</td>
+			 											</tr>	
+			 											<tr bgcolor="lightgray" align=center>
+			 															<td>2</td>
+			 															<td>Razan</td>
+			 															<td>CT</td>
+			 															<td>5</td>
+			 											</tr>
+			 											<tr bgcolor="lightgray" align=center>
+			 															<td>30</td>
+			 															<td>Mridhul</td>
+			 															<td>CM</td>
+			 															<td>5</td>
+			 											</tr>
+			 											<tr bgcolor="lightgray" align=center>
+			 															<td>21</td>
+			 															<td>Arjun</td>
+			 															<td>EL</td>
+			 															<td>3</td>
+			 											</tr>
+			 											<tr align=center bgcolor="lightgray">
+			 															<td>43</td>
+			 															<td>Vishnu</td>
+			 															<td>CT</td>
+			 															<td>5</td>
+			 											</tr>
+			 								</table>
+			 				</body>
+			 </head>
+</html>
